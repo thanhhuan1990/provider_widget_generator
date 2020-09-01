@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0b7373c-904a-43f1-8555-ca2607c1efd9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1grtGCNzyTREfKPlI1kHa0J0tGs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/fileTemplates/internal" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/fileTemplates" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="provider_widget_generator.builder" />
+      <recent name="provider_widget_generator.action" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/fileTemplates/internal" />
+      <recent name="$PROJECT_DIR$/src/main/resources/internal" />
+      <recent name="$PROJECT_DIR$/src/main/java/provider_widget_generator" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0b7373c-904a-43f1-8555-ca2607c1efd9" name="Default Changelist" comment="" />
+      <created>1598884440893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598884440893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="127" key="#Project_Structure" timestamp="1598885729263">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state x="352" y="127" key="#Project_Structure/65.23.1375.877@65.23.1375.877" timestamp="1598885729263" />
+    <state x="-563" y="-718" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598925370741">
+      <screen x="-1260" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-563" y="-718" key="#com.intellij.fileTypes.FileTypeChooser/65.23.1375.877/-1260.-1057.1920.1057/660.-1057.1920.1057@-1260.-1057.1920.1057" timestamp="1598925370741" />
+    <state x="440" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598924404424">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state x="440" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/65.23.1375.877/-1260.-1057.1920.1057/660.-1057.1920.1057@65.23.1375.877" timestamp="1598924404424" />
+    <state x="-720" y="-1057" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598924587913">
+      <screen x="-1260" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-720" y="-1057" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/65.23.1375.877/-1260.-1057.1920.1057/660.-1057.1920.1057@-1260.-1057.1920.1057" timestamp="1598924587913" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1598942576475">
+      <screen x="-1260" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/65.23.1375.877/-1260.-1057.1920.1057/660.-1057.1920.1057@-1260.-1057.1920.1057" timestamp="1598942576475" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1598942576474">
+      <screen x="-1260" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/65.23.1375.877/-1260.-1057.1920.1057/660.-1057.1920.1057@-1260.-1057.1920.1057" timestamp="1598942576474" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1598942576473">
+      <screen x="-1260" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/65.23.1375.877/-1260.-1057.1920.1057/660.-1057.1920.1057@-1260.-1057.1920.1057" timestamp="1598942576473" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1598942576474">
+      <screen x="-1260" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/65.23.1375.877/-1260.-1057.1920.1057/660.-1057.1920.1057@-1260.-1057.1920.1057" timestamp="1598942576474" />
+    <state x="-791" y="-890" key="SettingsEditor" timestamp="1598925627753">
+      <screen x="-1260" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-791" y="-890" key="SettingsEditor/65.23.1375.877/-1260.-1057.1920.1057/660.-1057.1920.1057@-1260.-1057.1920.1057" timestamp="1598925627753" />
+    <state x="411" y="218" width="683" height="486" key="find.popup" timestamp="1598885448138">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state x="411" y="218" width="683" height="486" key="find.popup/65.23.1375.877@65.23.1375.877" timestamp="1598885448138" />
+    <state x="372" y="75" key="new project wizard" timestamp="1598885755725">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state x="372" y="75" key="new project wizard/65.23.1375.877@65.23.1375.877" timestamp="1598885755725" />
+  </component>
+</project>

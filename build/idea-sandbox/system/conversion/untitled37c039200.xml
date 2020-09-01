@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="google-app-engine-facet" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/jakehuynh/IdeaProjects/untitled3/.idea/libraries/Dart_Packages.xml" timestamp="1598935912181" />
+    <file path="/Users/jakehuynh/IdeaProjects/untitled3/.idea/libraries/Dart_SDK.xml" timestamp="1598935862474" />
+    <file path="/Users/jakehuynh/IdeaProjects/untitled3/.idea/libraries/Flutter_Plugins.xml" timestamp="1598935912185" />
+    <file path="/Users/jakehuynh/IdeaProjects/untitled3/.idea/libraries/KotlinJavaRuntime.xml" timestamp="1598935862475" />
+    <file path="/Users/jakehuynh/IdeaProjects/untitled3/.idea/misc.xml" timestamp="1598935875952" />
+    <file path="/Users/jakehuynh/IdeaProjects/untitled3/.idea/modules.xml" timestamp="1598935912172" />
+    <file path="/Users/jakehuynh/IdeaProjects/untitled3/.idea/runConfigurations/main_dart.xml" timestamp="1598935862473" />
+    <file path="/Users/jakehuynh/IdeaProjects/untitled3/.idea/workspace.xml" timestamp="1598942416828" />
+    <file path="/Users/jakehuynh/IdeaProjects/untitled3/untitled3.iml" timestamp="1598935912166" />
+  </project-files>
+</conversion>
+
