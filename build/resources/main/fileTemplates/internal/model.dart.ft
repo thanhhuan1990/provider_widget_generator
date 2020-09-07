@@ -1,7 +1,0 @@
-import 'package:flutter/material.dart';
-
-/// Created by ${USER} on ${DAY}/${MONTH_NAME_SHORT}/${YEAR}
-///
-/// Copyright ©${YEAR} by ${USER}. All rights reserved.
-class ${CLASS_NAME}Model extends ChangeNotifier {
-}

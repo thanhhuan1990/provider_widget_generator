@@ -15,7 +15,7 @@ class ${CLASS_NAME}Widget extends StatelessWidget{
         child: Scaffold(
           body: Builder(builder: (BuildContext context) {
             return ChangeNotifierProvider(
-              create: (context) => ${CLASS_NAME}Model(context),
+              create: (context) => ${CLASS_NAME}Model(),
               child: Consumer<${CLASS_NAME}Model>(
                   builder: (context, model, _) {
                     return Container(

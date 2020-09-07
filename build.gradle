@@ -27,7 +27,7 @@ sourceCompatibility = 1.8
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
     version "IU-192.6262.58"
-    pluginName 'flutter-bloc-generator'
+    pluginName 'flutter-provider-widget-generator'
     plugins = ['android', 'Kotlin', 'gradle', "Dart:192.6459", 'io.flutter:43.0.2']
 }
 

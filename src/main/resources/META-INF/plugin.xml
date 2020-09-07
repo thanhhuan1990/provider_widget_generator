@@ -5,8 +5,9 @@
     <vendor email="thanhhuan1990@gmail.com" url="https://github.com/thanhhuan1990">ThanhHuan.VN</vendor>
 
     <description><![CDATA[
-    Provider Widget with Model Template Generator.<br>
+     Quickly to generate flutter Provider Widget with Model by Flutter Provider Template.<br>
     Generates Widget, Model classes.<br>
+    Supports both StatefulWidget and StatelessWidget.<br>
     <a href="https://github.com/thanhhuan1990/provider_widget_generator">https://github.com/thanhhuan1990/provider_widget_generator</a>
     ]]></description>
 
@@ -28,15 +29,8 @@
         <!-- Add your actions here -->
         <action id="provider_widget_generator.action.GenerateWidgetAction"
                 class="provider_widget_generator.action.GenerateWidgetAction"
-                text="Stateless Widget Generate"
-                description="Generate a new Stateless widget with Provider"
-                icon="/icons/dart_file.svg">
-            <add-to-group group-id="NewGroup" anchor="last"/>
-        </action>
-        <action id="provider_widget_generator.action.GenerateStatefulWidgetAction"
-                class="provider_widget_generator.action.GenerateStatefulWidgetAction"
-                text="Stateful Widget Generate"
-                description="Generate a new Stateful widget with Provider"
+                text="Widget Generate"
+                description="Generate a new widget with Provider"
                 icon="/icons/dart_file.svg">
             <add-to-group group-id="NewGroup" anchor="last"/>
         </action>
