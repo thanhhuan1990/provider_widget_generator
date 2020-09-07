@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>huan.huynh.provider_widget_generator</id>
     <name>Provider Widget Generator</name>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <vendor email="thanhhuan1990@gmail.com" url="https://github.com/thanhhuan1990">ThanhHuan.VN</vendor>
 
     <description><![CDATA[
